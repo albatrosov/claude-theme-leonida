@@ -1,0 +1,14 @@
+{
+  "name": "claude-themes",
+  "owner": {
+    "name": "albatrosov"
+  },
+  "description": "Themes for Claude Code",
+  "plugins": [
+    {
+      "name": "neon-coast",
+      "source": "./neon-coast",
+      "description": "Light pink theme with palm silhouettes swaying on a violet-to-peach sunset sky"
+    }
+  ]
+}
