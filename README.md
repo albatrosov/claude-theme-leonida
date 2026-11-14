@@ -6,6 +6,8 @@ Themes for the Claude Code desktop and mobile apps.
 
 A light, pink-first look: big palm silhouettes frame a violet-to-peach sunset sky behind the chat, their fronds swaying slowly. Panels and sidebars are frosted in a milky pink, and hot pink `#FF3C78` is the accent color.
 
+![The palm backdrop the theme draws behind the chat, fronds swaying](screenshots/backdrop.svg)
+
 - The palms are drawn in code (`neon-coast/hooks/palms.js`), seeded, so every session shows the same scene.
 - The animation stops when the system asks for reduced motion.
 - The terminal and editors draw no theme; the backdrop shows in the desktop and mobile apps once a session starts.
